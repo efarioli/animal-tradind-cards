@@ -1,1 +1,29 @@
-/* add your CSS here */
+#card {
+	width: 310px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(189,183,189,1);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(189,183,189,1);
+	box-shadow: 10px 10px 5px 0px rgba(189,183,189,1);
+}
+
+p.italic{
+	font-style: italic;
+}
+span {
+	font-weight: bold;
+}
+li{
+	list-style: none;
+}
+
+div {
+	border: 1px solid silver;
+	padding: 15px;
+}
+img{
+	padding: 15px 0;
+	width: 300px;
+}
+ul{
+	padding: 10px 0;
+}
+
